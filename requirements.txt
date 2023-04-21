@@ -1,2 +1,5 @@
 pandas
 boto3
+transformers
+scipy
+torch
